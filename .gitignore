@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/python/crabada_login.json
+/python/.keyfile
+/python/battle_keys.json
